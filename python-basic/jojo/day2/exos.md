@@ -1,4 +1,4 @@
-# Day 3: Boolean and methods
+# Day 2: Boolean and methods
 
 ## TD 1
 
