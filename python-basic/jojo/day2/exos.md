@@ -20,7 +20,7 @@ output:
 
 ### EXO2
 Display the game answers with this syntax if the answer is yes :
-Use:
+use:
 ```bash
 game_answers = [ "yes",  "yes", "no", "yes" ]
 ```
@@ -46,7 +46,7 @@ output:
 ### EXO 4 Annexe
 
 Display the vegetables and its associated color
-Use:
+use:
 ```bash
 vegetables = ["Carotte", "Poireau", "Courgette"]
 colors = ["Orange", "Blanche", "Verte"]
@@ -62,7 +62,7 @@ Le légume nommé Courgette est de couleur Verte
 ### EXO 4
 
 Display the matching between Game answers and Pauline's answers
-Use:
+use:
 ```bash
 game_answers = [ "yes",  "yes", "no", "yes" ]
 pauline_answers = [ "yes",  "yes", "no", "no" ]
@@ -81,7 +81,7 @@ yes | no
 
 Display the matching between Game answers and Pauline's answers
 just if Game answer and Pauline's answer are the same.
-Use:
+use:
 ```bash
 game_answers = [ "yes",  "yes", "no", "yes" ]
 pauline_answers = [ "yes",  "yes", "no", "no" ]
@@ -98,7 +98,7 @@ no | no
 ### EXO 6
 
 Display the number of matchings between Game answers and Pauline's answers
-Use:
+use:
 ```bash
 game_answers = [ "yes",  "yes", "no", "yes" ]
 pauline_answers = [ "yes",  "yes", "no", "no" ]
@@ -113,7 +113,7 @@ output:
 
 Display the number of matchings between Game answers and Pauline's answers
 but you must use this structure
-Use:
+use:
 ```bash
 game_answers = [ "yes",  "yes", "no", "yes" ]
 pauline_answers = [ "yes",  "yes", "no", "no" ]
