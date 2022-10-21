@@ -22,5 +22,7 @@ git clone #address du repo
 git push origin master    # push your work to github
 git pull origin master    # pull your work to github
 ```
-
+```
+git checkout -b <nom-de-la-branche> # création d'une nouvelle branche de travaille
+```
 
