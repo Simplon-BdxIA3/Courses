@@ -1,4 +1,5 @@
 print("As you want!!")
 print("riri")
 print("fifi")
+print("Picsou")
 print("loulou")
